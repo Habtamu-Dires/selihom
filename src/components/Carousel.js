@@ -42,8 +42,8 @@ function Carousal() {
             >  
             <img  className='carouselBackgrund' src={item.image} alt={"selihom"} />
             <div className='carousel-center-text animate__animated animate__fadeInDown animate__slower'>
-                    <h1>{item.title}</h1>
-                    <p style={{fontSize: '30px'}}>{item.sub_title}</p>       
+                    <h2>{item.title}</h2>
+                    <p style={{fontSize: '28px'}}>{item.sub_title}</p>       
             </div>
         
           </CarouselItem>

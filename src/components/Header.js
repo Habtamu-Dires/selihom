@@ -17,12 +17,12 @@ function Header(){
             <span style={{fontSize: "20px"}} className="subtitle">Selihom Mentally ill People Association</span>
         </div>
         <div className="header" >
-            <Navbar  dark expand="md">
+            <Navbar  expand="md">
                 <NavbarBrand>
                     <img src="img/selihom-logo.png" alt="SELIHOM" height={50} width={50}/>
                 </NavbarBrand>
-                <NavbarToggler onClick={toggleNav}/>
-                <Collapse isOpen={isNavOpen} navbar>
+                <NavbarToggler  onClick={toggleNav}/>
+                <Collapse  isOpen={isNavOpen} navbar>
                     <Nav navbar className="me-auto">
                         <NavItem>
                             <NavLink style={{color: 'black'}} className="nav-link" to="/home">Home </NavLink>

@@ -32,6 +32,12 @@ address{
     height: 90px;
   }
 }
+@media (max-width: 544px) {
+  .brand-name {
+    height: 120px;
+  }
+}
+
 
 .brand-name #title{
   background: -webkit-linear-gradient( green,yellow, red);
@@ -174,6 +180,12 @@ address{
 @media (max-width: 980px) {
   .img-list {
     --animation-percent: -730%;
+  }
+}
+@media (max-width: 544px) {
+  .img-list {
+    --animation-percent: -1600%;
+    border: solid 1px red;
   }
 }
 

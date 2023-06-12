@@ -26,7 +26,7 @@ function Home(){
         <div className="d-flex justify-content-center my-5">
            <div className="home-components row">
                 <div className="col-md-8 col-12">
-                    <div className="me-5">
+                    <div className="me-md-5">
                         <p className="home-comp-title">ሰሊሆም የአዕምሮ ህሙማን መርጃ ማህበር የሚሰራቸው ስራዎች</p>
                         <p>
                         በየጎዳና የወደቁ የአዕምሮ ህሙማን ወገኖቻችንን ከጎዳና በማንሳት መጀመሪያ ገላቸው በማጠብ ልብሳቸውን በመቀየር ህክምና ካትትል እንዲያደርጉ በማድረግ ምግባቸውን መኝታቸውን በማመቻቸት ተገቢውን ድጋፍ ፍቅር በመሰጠት ጤናቸውን ወሰተሸለ ደረጃ እንዲደርስ ማስቻል በክትትሉም ለውጥ ያመጡ የዳኑ ሰዎችን የተለያዩ ስልጠና እንዲያገኙ በማድረግ ወደ ማህበረሰቡ እንዲቀላቀሉ መገዝ ህይወታቸው የተሻለ የተሰካ እንዲሆን እገዛ ድጋፍ ማድረግ፡፡ 
@@ -60,7 +60,7 @@ function Home(){
                     </div>
                 </div>
                 <div className="mt-5 col-md-8 col-12">
-                    <div className="me-5">
+                    <div className="me-md-5">
                         <p className="home-comp-title">የማህበሩ መቋቋም ጠቀሜታዎች </p>
                         <p>- ህሙማን በተረጋጋ ቦታ እንዲቆዩ ይረዳል</p>
                         <p>- ህክምናውን በሰዓት እዲያገኙ ይረዳል</p>

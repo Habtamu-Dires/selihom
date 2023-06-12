@@ -17,7 +17,7 @@ function Support(){
                 </div>
                 <div className="row">
                    <div className="col-12 col-md-8">
-                        <div className="me-5">
+                        <div className="me-md-5">
                             <h2 className="homp-comp-title">የገቢ ማሰባሰቢያ መንገዶች</h2>        
                             <p>
                             ማህበሩ የራሱ የሆነ ቋሚ ቦታም የለውም በኪራይቤት ነው ያለው 
