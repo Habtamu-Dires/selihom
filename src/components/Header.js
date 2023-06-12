@@ -14,7 +14,7 @@ function Header(){
         <div className="brand-name">
             <span id="title">ሰሊሆም </span> 
             <span className="subtitle"> የአዕምሮ ህሙማን መርጃ ማህብር</span> &nbsp;  &nbsp;
-            <span className="subtitle">Selihom Mentally ill People Association</span>
+            <span style={{fontSize: "20px"}} className="subtitle">Selihom Mentally ill People Association</span>
         </div>
         <div className="header" >
             <Navbar  dark expand="md">
@@ -25,7 +25,7 @@ function Header(){
                 <Collapse isOpen={isNavOpen} navbar>
                     <Nav navbar className="me-auto">
                         <NavItem>
-                            <NavLink style={{color: 'black'}} className="nav-link nav_link" to="/home">Home </NavLink>
+                            <NavLink style={{color: 'black'}} className="nav-link" to="/home">Home </NavLink>
                         </NavItem>
                         <NavItem>
                             <NavLink style={{color: 'black'}}  className="nav-link"  to="/about">About</NavLink>
