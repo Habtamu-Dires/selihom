@@ -11,14 +11,14 @@ function Support(){
                         <BreadcrumbItem active>SupportUs</BreadcrumbItem>
                     </Breadcrumb>
                     <div className="col-12">
-                        <h3>"ደግ ልቦች ከውብ ፈቶች ይብልጣሉ"</h3>
+                        <h4>"ደግ ልቦች ከውብ ፈቶች ይብልጣሉ"</h4>
                         <hr />
                     </div>                
                 </div>
                 <div className="row">
                    <div className="col-12 col-md-8">
                         <div className="me-md-5">
-                            <h2 className="homp-comp-title">የገቢ ማሰባሰቢያ መንገዶች</h2>        
+                            <p className="home-comp-title">የገቢ ማሰባሰቢያ መንገዶች</p>        
                             <p>
                             ማህበሩ የራሱ የሆነ ቋሚ ቦታም የለውም በኪራይቤት ነው ያለው 
                             ማህበሩ የራሱ መተዳደሪ የለውም የሚተዳደረውም የማህበሩ በጎ ፈቃደኞች ጫማዎችን በመጥረግ መኪና በማጠብ በተለያዩ ክብረ በአላት ቆዳ በማሰባሰብ ገቢ ለማግኘት እየሰራ ያለ ማህበር ነው በተጨማሪም ወደ ማእከሉ የሚመጡ በጎ ፈቃደኞች በሚያደርጉት የገንዘብ የማቴርያል ድጋፍ እየተንቀሳቀሰ ያለ ማህበር ነው፡፡
