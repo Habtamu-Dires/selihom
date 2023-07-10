@@ -22,9 +22,9 @@ function Footer(){
                         <h5>Links</h5>
                         <ul className="list-unstyled">
                             <li><Link onClick={handleClick} to="/">Home</Link></li>
-                            <li><Link onClick={handleClick} to="/about">About Us</Link></li>
-                            <li><Link onClick={handleClick} to="/contactus">Coontact Us</Link></li>
-                            <li><Link onClick={handleClick} to="/support">Support Us</Link></li>
+                            <li><Link onClick={handleClick} to="/about">About us</Link></li>
+                            <li><Link onClick={handleClick} to="/contactus">Contact us</Link></li>
+                            <li><Link onClick={handleClick} to="/support">Support us</Link></li>
                         </ul>
                     </div>
                     <div className="col-7 col-sm-5">
@@ -57,7 +57,7 @@ function Footer(){
                 </div>
                 <div className="row copy-right justify-content-center">
                     <div className="col-auto">
-                        <p style={{fontSize: 'large'}}>© Copyright 2023 Selihom Mentally ill People Association</p>
+                        <p style={{fontSize: 'large'}}>© Copyright 2023 Selihom Mentally ill People Support Association</p>
                     </div>
                 </div>
             </div>            

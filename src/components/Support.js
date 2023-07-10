@@ -11,7 +11,7 @@ function Support(){
                         <BreadcrumbItem active>SupportUs</BreadcrumbItem>
                     </Breadcrumb>
                     <div className="col-12">
-                        <h4>"ደግ ልቦች ከውብ ፈቶች ይብልጣሉ"</h4>
+                        <h4>"ደግ ልቦች ከውብ ፊቶች ይበልጣሉ"</h4>
                         <hr />
                     </div>                
                 </div>
@@ -21,7 +21,7 @@ function Support(){
                             <p className="home-comp-title">የገቢ ማሰባሰቢያ መንገዶች</p>        
                             <p>
                             ማህበሩ የራሱ የሆነ ቋሚ ቦታም የለውም በኪራይቤት ነው ያለው 
-                            ማህበሩ የራሱ መተዳደሪ የለውም የሚተዳደረውም የማህበሩ በጎ ፈቃደኞች ጫማዎችን በመጥረግ መኪና በማጠብ በተለያዩ ክብረ በአላት ቆዳ በማሰባሰብ ገቢ ለማግኘት እየሰራ ያለ ማህበር ነው በተጨማሪም ወደ ማእከሉ የሚመጡ በጎ ፈቃደኞች በሚያደርጉት የገንዘብ የማቴርያል ድጋፍ እየተንቀሳቀሰ ያለ ማህበር ነው፡፡
+                            ማህበሩ የራሱ መተዳደሪያ የለውም የሚተዳደረውም የማህበሩ በጎ ፈቃደኞች ጫማዎችን በመጥረግ መኪና በማጠብ በተለያዩ ክብረ በአላት ቆዳ በማሰባሰብ ገቢ ለማግኘት እየሰራ ያለ ማህበር ነው በተጨማሪም ወደ ማእከሉ የሚመጡ በጎ ፈቃደኞች በሚያደርጉት የገንዘብ የማቴርያል ድጋፍ እየተንቀሳቀሰ ያለ ማህበር ነው፡፡
                             </p> 
                         </div>
                     </div>
@@ -34,7 +34,7 @@ function Support(){
                         </div>
                     </div>
                     <div className="col-12 mt-3">
-                        <p className="home-comp-title">ማብበሩን በማቴርያል ድጋፍ ማድረግ ለሚፈልጉ</p>
+                        <p className="home-comp-title">ማህበሩን በማቴርያል ድጋፍ ማድረግ ለሚፈልጉ</p>
                         <div className="row">
                             <div className="col-4">
                                 <p>በምግብ ግብአት አቅርቦት</p>
@@ -71,7 +71,7 @@ function Support(){
                     <div className="">
                         <p className="home-comp-title">በተጨማሪም ማህበሩን</p>
                         <p>- በእውቀታችሁ </p>
-                        <p>- በጉልበራችሁ </p>
+                        <p>- በጉልበታችሁ </p>
                         <p>- በሙያችሁ ድጋፍ ብታደርጉልን</p>
                     </div>  
                 </div>

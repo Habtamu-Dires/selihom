@@ -13,8 +13,9 @@ function Header(){
         <>
         <div className="brand-name">
             <span id="title">ሰሊሆም </span> 
-            <span className="subtitle"> የአዕምሮ ህሙማን መርጃ ማህብር</span> &nbsp;  &nbsp;
-            <span style={{fontSize: "20px"}} className="subtitle">Selihom Mentally ill People Association</span>
+            <span className="subtitle"> የአዕምሮ ህሙማን መርጃ ማህበር</span> &nbsp;  &nbsp;
+            <span style={{fontSize: "20px"}} className="subtitle">
+                Selihom Mentally ill People Support Association</span>
         </div>
         <div className="header" >
             <Navbar  expand="md">
