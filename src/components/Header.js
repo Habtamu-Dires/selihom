@@ -20,7 +20,7 @@ function Header(){
         <div className="header" >
             <Navbar  expand="md">
                 <NavbarBrand>
-                    <img src="img/selihom-logo.png" alt="SELIHOM" height={50} width={50}/>
+                    <img src="img/selihom-logo.jpg" alt="SELIHOM" height={50} width={50}/>
                 </NavbarBrand>
                 <NavbarToggler  onClick={toggleNav}/>
                 <Collapse  isOpen={isNavOpen} navbar>
